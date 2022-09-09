@@ -1,0 +1,10 @@
+.footer-container {
+    position: fixed;
+    margin-bottom: 40px;
+    bottom: 0;    
+    width: 100%;
+}
+
+.footer-container div {
+    text-align: center;
+}
