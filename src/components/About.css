@@ -1,0 +1,12 @@
+.photo {
+    text-align: center;
+}
+.photo img {
+    width: 150px;
+    height: 150px;
+    clip-path: circle();
+}
+
+.desc {
+    margin: 40px; 
+}
