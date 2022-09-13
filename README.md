@@ -6,6 +6,10 @@ This is a portoflio for Adam Awartani. It is created with React. The application
 
 * https://awartani321.github.io/React-Challenge-React-Portfolio/#home
 
+### Screenshot
+
+<img width="1440" alt="React-app-screenshot" src="https://user-images.githubusercontent.com/103685355/190028267-1e0f05a7-3e6e-4969-b5e3-007b84ca3cf6.png">
+
 ### Github URL
 
 * https://github.com/awartani321/React-Challenge-React-Portfolio.git
