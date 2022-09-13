@@ -1,3 +1,15 @@
+### About
+
+This is a portoflio for Adam Awartani. It is created with React. The application has a resume page, an about page, and a contact page.
+
+### Link to application
+
+* https://awartani321.github.io/React-Challenge-React-Portfolio/#home
+
+### Github URL
+
+* https://github.com/awartani321/React-Challenge-React-Portfolio.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
